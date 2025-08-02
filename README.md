@@ -1,28 +1,14 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Cloud+%26+DevOps+Engineer;Linux+%7C+AWS+%7C+Terraform+Learner;Open+to+Collaboration+and+Internship)](https://git.io/typing-svg)
+
 # 👋 Hi, I'm Karan S
 
-🚀 Aspiring Cloud Engineer | Linux Enthusiast | DevOps & AWS Learner  
-🌍 Based in Karur, Tamil Nadu, India  
+🚀 Passionate about Cloud, Linux, and DevOps  
 🧠 Currently Learning: AWS | Terraform | Docker | Git | CI/CD  
-🎯 Goal: Become a skilled Cloud + DevOps Engineer  
+🎯 Goal: Land a job in Cloud & DevOps field  
+🌱 Always exploring new technologies  
 
 ---
 
-## 🔧 Skills & Tools
-
-- 🌐 **Cloud**: AWS (EC2, S3, IAM, VPC)
-- 🐧 **Linux**: Shell Scripting, System Admin
-- 🛠️ **DevOps Tools**: Git, GitHub, Docker, CI/CD
-- 📚 **Languages**: Python, Bash, PHP
-- 🔍 **Version Control**: Git + GitHub
-- ✍️ **Markdown**, **VS Code**, **Terminal Ninja**
-
----
-
-## 📈 GitHub Stats
-
-![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaranPrince&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranPrince&layout=compact&theme=radical)
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Cloud+%26+DevOps+Engineer;Linux+%7C+AWS+%7C+Terraform+Learner;Open+to+Collaboration+and+Internship)](https://git.io/typing-svg)
 ## 💻 Languages and Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
@@ -34,11 +20,24 @@
 
 ---
 
-## 🏆 Projects
+## 📈 GitHub Stats
 
-- 🔊 [Flutter Voice Assistant](https://github.com/KaranPrince/FLUTTER_VOICE_FRIEND)
+![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaranPrince&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranPrince&layout=compact&theme=radical)
+
+---
+
+## 📊 GitHub Activity Graph
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=KaranPrince&theme=radical)
+
+---
+
+## 📂 Notable Projects
+
+- 🔊 [Flutter Voice Friend](https://github.com/KaranPrince/FLUTTER_VOICE_FRIEND)
 - 🤖 [AI Chatbot](https://github.com/KaranPrince/AI-CHATBOT)
-- 📚 [Linux Class Notes](https://github.com/KaranPrince/Linux-Notes)
+- 📚 [Linux Notes](https://github.com/KaranPrince/Linux-Notes)
 
 ---
 
@@ -47,8 +46,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-flutterdev)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/king.karan.22/)
 📧 Email: karans.appdev@gmail.com
-
----
-
-> “Keep learning. Keep building. Stay consistent.” 🚀
-
