@@ -42,11 +42,11 @@
 
 ---
 
-## 📫 Let's Connect
+## 📫 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/karan-flutterdev)
-- 💬 [Instagram](https://www.instagram.com/king.karan.22/)
-- 📩 Email: karans.appdev@gmail.com
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/karan-flutterdev)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/king.karan.22/)
+📧 Email: karans.appdev@gmail.com
 
 ---
 
