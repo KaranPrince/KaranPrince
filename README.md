@@ -18,7 +18,7 @@
 - 🎓 **Aadhavan College of Arts & Science, Trichy**  
   *B.Sc. Computer Science | 2022 – 2025*
 
-- 🏫 **Karur Saraswathi Vidyalaya High School, Karur**  
+- 🏫 **Karur Saraswathi Vidyalaya Higher Secondary School, Karur**  
   *HSC – Computer Science Stream | 2018 – 2020*
 
 ---
@@ -27,24 +27,30 @@
 
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS%20Cloud%20Practitioner-F7981D?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Naan Mudhalvan](https://img.shields.io/badge/Naan%20Mudhalvan%20Course-007ACC?style=for-the-badge&logo=graduation-cap&logoColor=white)
-![Linux Essentials](https://img.shields.io/badge/Linux%20Basics-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux Mastery](https://img.shields.io/badge/Mastered%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git & GitHub](https://img.shields.io/badge/Git%20%26%20GitHub-F05032?style=for-the-badge&logo=git&logoColor=white)
+![DevOps Basics](https://img.shields.io/badge/DevOps%20Basics-2496ED?style=for-the-badge&logo=dev.to&logoColor=white)
 
 ---
 
 ## 🧰 Tech Stack
 
 **Cloud & Infra:**  
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
-**DevOps Tools:**  
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+**DevOps & Automation:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)  
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
 **Monitoring & CI/CD:**  
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)  
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/AWS%20CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
 **OS & Scripting:**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
