@@ -22,6 +22,8 @@
 
 ![Karan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=KaranPrince&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranPrince&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KaranPrince&layout=compact&theme=radical)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Cloud+%26+DevOps+Engineer;Linux+%7C+AWS+%7C+Terraform+Learner;Open+to+Collaboration+and+Internship)](https://git.io/typing-svg)
 
 ---
 
