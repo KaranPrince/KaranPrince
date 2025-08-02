@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Cloud+%26+DevOps+Engineer;Linux+%7C+AWS+%7C+Terraform+Learner;Open+to+Collaboration+and+Internship)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Aspiring+Cloud+%26+DevOps+Engineer;Linux+%7C+AWS+%7C+DevOps;Open+to+Collaboration+and+Internship)](https://git.io/typing-svg)
 
 # 👋 Hi, I'm Karan S
 
